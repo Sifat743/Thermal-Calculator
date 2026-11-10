@@ -1,6 +1,6 @@
 # Thermal — solar storage calculator
 
-A responsive, dependency-free web app based on **HVAC TES Calculator 2PM 22 OCT.xlsx**. Open `index.html` in a browser. No installation, account, API key or Excel is needed.
+A responsive, dependency-free web app based on **HVAC TES Calculator  Open `index.html` in a browser. No installation, account, API key or Excel is needed.
 
 ## Use it
 
