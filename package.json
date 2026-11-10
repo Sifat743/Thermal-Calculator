@@ -1,0 +1,7 @@
+{
+  "name": "thermal-storage-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Solar thermal storage calculator based on the HVAC TES workbook",
+  "scripts": { "test": "node test.cjs" }
+}

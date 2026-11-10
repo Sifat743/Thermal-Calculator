@@ -1,0 +1,10 @@
+{
+  "name": "Thermal Solar Storage Calculator",
+  "short_name": "Thermal",
+  "description": "A simple solar thermal energy storage calculator.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f4ed",
+  "theme_color": "#164f43",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
